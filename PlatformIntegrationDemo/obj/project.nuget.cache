@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2LN83bsMx37FTJiYX/mY9e0FaABlIhohemkeyYu56XllDEZALYGX1cf3wMa/ye0cTebrKveX/lcakqYiIeAhw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\cybertron_0470\\Downloads\\maui-samples-main\\maui-samples-main\\8.0\\PlatformIntegration\\PlatformIntegrationDemos\\PlatformIntegrationDemo\\PlatformIntegrationDemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
